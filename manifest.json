@@ -1,0 +1,12 @@
+{
+  "id": "energo-jackett",
+  "name": "jackett",
+  "description": "Add support for jackett indexer aggregator",
+  "manifestURI": "",
+  "version": "0.1.0",
+  "author": "EnergoStalin",
+  "type": "anime-torrent-provider",
+  "language": "typescript",
+  "lang": "multi",
+  "payload": ""
+}
